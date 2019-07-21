@@ -1,0 +1,11 @@
+블럭처럼 회전도 고려해야하는거냐 설마
+
+unsigned int Hash2048[NSZ][MSZ] = {0u,};
+unsigned int Hash1024[NSZ/2][MSZ/2] = {0u,};
+unsigned int Hash512[NSZ/4][MSZ/4] = {0u,};
+unsigned int Hash256[NSZ/8][MSZ/8] = {0u,};
+unsigned int Hash128[NSZ/16][MSZ/16] = {0u,};
+unsigned int Hash64[NSZ/32][MSZ/32] = {0u,};
+unsigned long Hash32[NSZ/64][MSZ/64] = {0lu,};
+
+18446744073709551615
